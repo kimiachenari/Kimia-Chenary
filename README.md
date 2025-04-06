@@ -15,9 +15,10 @@ Welcome! I'm a spatial data scientist focused on leveraging data-driven insights
 - **Tools & Languages**: Python, R, QGIS, ArcGIS, PostgreSQL/PostGIS, Jupyter
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/44529f86-6021-48dd-a32c-9f88d8f958b9" width="500" height="300" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/a7bc3926-6619-48e2-a9f3-f4e9b82fd0b3" width="500" height="300" />
+  <img src="https://github.com/user-attachments/assets/44529f86-6021-48dd-a32c-9f88d8f958b9" width="400" height="150" style="margin: 5px;"/>
+  <img src="https://github.com/user-attachments/assets/c94555d4-91a3-456d-bb91-f67c635a2bc8" width="400" height="150" style="margin: 5px;"/>
 </p>
+
 
 ---
 
