@@ -7,30 +7,15 @@ Welcome! I'm a spatial data scientist focused on leveraging data-driven insights
 
 ## 🔧 Skills & Tools
 
-- **Spatial Analysis** (GIS, Remote Sensing, Network Analysis)
-- **Machine Learning & Forecasting** (Scikit-learn, XGBoost, Time Series Models)
-- **Big Data Analytics** (PySpark, Dask, SQL, NoSQL)
-- **Disaster Analysis** (Climate Vulnerability, Risk Mapping)
+- **Spatial Analysis** (Google Earth Engine, GIS, Remote Sensing, Network Analysis)
+- **Machine Learning & Forecasting** (Python, Scikit-learn, XGBoost, Time Series Models)
+- **Big Data Analytics** (SQL, Python)
+- **Disaster Analysis** (Climate Vulnerability, Risk Mapping, Vulnerability and Social Inequity)
 - **Sustainable Development Assessment** (SDG Metrics, Sustainability Forecasting)
 - **Tools & Languages**: Python, R, QGIS, ArcGIS, PostgreSQL/PostGIS, Jupyter
 
 ---
 
-## 📚 Selected Publications
-
-- **Forecasting SDG Scores by 2030 using ML Models**  
-  _Applied machine learning to forecast national sustainability metrics._
-  
-- **Street Network Patterns for Mitigating Urban Heat Islands**  
-  _Analyzed spatial structures to reduce heat stress in arid cities._
-
-- **Cities, Arid Climates and Shading**  
-  _Explored Persian vernacular architecture to inform climate-sensitive design._
-
-- **Quantitative Impact of Key SDG Indicators on National Scores**  
-  _Data-driven approach to understanding sustainable development in West Asia._
-
----
 
 ## 🔍 Current Interests
 
@@ -45,7 +30,7 @@ Welcome! I'm a spatial data scientist focused on leveraging data-driven insights
 
 I’m always open to research collaborations, innovative projects, or consulting opportunities in the fields of sustainability, spatial analysis, and AI for social good.
 
-📫 **Get in Touch**: [your-email@example.com]  
+📫 **Get in Touch**: [kimiachenary1@gmail.com]  
 🌐 **More**: [Your LinkedIn or personal website]
 
 ---
