@@ -13,8 +13,7 @@ Welcome! I'm a spatial data scientist focused on leveraging data-driven insights
 - **Disaster Analysis** (Climate Vulnerability, Risk Mapping, Vulnerability and Social Inequity)
 - **Sustainable Development Assessment** (SDG Metrics, Sustainability Forecasting)
 - **Tools & Languages**: Python, R, QGIS, ArcGIS, PostgreSQL/PostGIS, Jupyter
-![1](https://github.com/user-attachments/assets/44529f86-6021-48dd-a32c-9f88d8f958b9)
-![XpwfUikILP](https://github.com/user-attachments/assets/a7bc3926-6619-48e2-a9f3-f4e9b82fd0b3)
+
 <img src="https://github.com/user-attachments/assets/44529f86-6021-48dd-a32c-9f88d8f958b9" width="500"/>
 <img src="https://github.com/user-attachments/assets/a7bc3926-6619-48e2-a9f3-f4e9b82fd0b3" width="500"/>
 
